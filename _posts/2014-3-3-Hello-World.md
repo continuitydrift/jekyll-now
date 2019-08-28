@@ -3,8 +3,8 @@ layout: post
 title: Jekyll Site Created Successfully!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+After several failed attempts, it looks like I've finally managed to sucessfully fork a jekyll blog repository and get it to show up, not only on the Github server, but locally as well.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This text is below the read more? Eventually, I can use this for  [New Language Studio](https://newlanguagestudio.com).
